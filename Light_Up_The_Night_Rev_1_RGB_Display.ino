@@ -1,5 +1,6 @@
 //Created by: Matthew Jackson
 // 11/19/14
+//For use with 16x32 RGB Matrix Display 
 #include <Adafruit_GFX.h>  
 #include <RGBmatrixPanel.h> 
 
